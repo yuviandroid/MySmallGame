@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+  
+    android:background="@drawable/bg02">
+    
+
+    <Button 
+        android:id="@+id/btn_start"
+        android:layout_width="140dp"
+        android:layout_height="40dp"
+        android:background="@drawable/start_game"
+        android:layout_margin="10dp" />
+    
+    <Button 
+        android:id="@+id/btn_level"
+        android:layout_width="140dp"
+        android:layout_height="40dp"
+        android:background="@drawable/choose_level"
+        android:layout_margin="10dp"   />
+    
+    <Button 
+        android:id="@+id/btn_highScore"
+        android:layout_width="140dp"
+        android:layout_height="40dp"
+        android:background="@drawable/high_score"
+        android:layout_margin="10dp"   />
+    
+    <Button 
+        android:id="@+id/btn_quit"
+        android:layout_width="140dp"
+        android:layout_height="40dp"
+        android:background="@drawable/quit"
+        android:layout_margin="10dp"   />
+    
+</LinearLayout>

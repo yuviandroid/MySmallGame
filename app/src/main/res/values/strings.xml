@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Kill Me</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="start">Start New</string>
+    <string name="quit">Quit</string>
+    <string name="highScore">High Score</string>
+    <string name="level">Choose Level</string>
+    
+</resources>
